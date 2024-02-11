@@ -8,13 +8,21 @@ BinaryBit is not only enhances security and privacy in financial transactions bu
 Ticker:  BNRY
 
 Algorithm:  X11
+
 Type:  MasterNode & PoW
+
 Block Time:  2 Minutes
+
 Reward:  13.50 BNRY
+
 Node Collateral:  3 000 BNRY
+
 MasterNode:  80%
+
 Proof of Work (PoW):  20%
+
 Premine:  0.5% BNRY (600 000)
+
 Total Supply:  120 000 000 BNRY
  
 Website:
