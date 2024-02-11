@@ -1,0 +1,33 @@
+# /etc/conf.d/binarybitd: config file for /etc/init.d/binarybitd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/binarybit/binarybit.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/binarybitd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/binarybitd.pid"
+
+# Where to write binarybitd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/binarybitd"
+
+# User and group to own binarybitd process
+#BITCOIND_USER="binarybit"
+#BITCOIND_GROUP="binarybit"
+
+# Path to binarybitd executable
+#BITCOIND_BIN="/usr/bin/binarybitd"
+
+# Nice value to run binarybitd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+#BITCOIND_OPTS=""
+
+# The timeout in seconds OpenRC will wait for binarybitd to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+BITCOIND_SIGTERM_TIMEOUT=60

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=BinaryBit Core
+Comment=BinaryBit P2P Cryptocurrency
+Comment[de]=Verbinde mit dem BinaryBit peer-to-peer Netzwerk
+Comment[fr]=BinaryBit, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BinaryBit, eşten eşe kriptografik sanal para birimi
+Exec=binarybit-qt %u
+Terminal=false
+Type=Application
+Icon=binarybit128
+MimeType=x-scheme-handler/binarybit;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=BinaryBit-qt

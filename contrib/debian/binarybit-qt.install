@@ -1,0 +1,6 @@
+usr/local/bin/binarybit-qt usr/bin
+share/pixmaps/binarybit32.xpm usr/share/pixmaps
+share/pixmaps/binarybit16.xpm usr/share/pixmaps
+share/pixmaps/binarybit128.png usr/share/pixmaps
+debian/binarybit-qt.desktop usr/share/applications
+debian/binarybit-qt.protocol usr/share/kde4/services/

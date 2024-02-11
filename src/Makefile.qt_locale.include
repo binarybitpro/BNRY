@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/binarybit_ar.ts \
+  qt/locale/binarybit_bg.ts \
+  qt/locale/binarybit_de.ts \
+  qt/locale/binarybit_en.ts \
+  qt/locale/binarybit_es.ts \
+  qt/locale/binarybit_fi.ts \
+  qt/locale/binarybit_fr.ts \
+  qt/locale/binarybit_it.ts \
+  qt/locale/binarybit_ja.ts \
+  qt/locale/binarybit_ko.ts \
+  qt/locale/binarybit_nl.ts \
+  qt/locale/binarybit_pl.ts \
+  qt/locale/binarybit_pt.ts \
+  qt/locale/binarybit_ro.ts \
+  qt/locale/binarybit_ru.ts \
+  qt/locale/binarybit_sk.ts \
+  qt/locale/binarybit_th.ts \
+  qt/locale/binarybit_tr.ts \
+  qt/locale/binarybit_vi.ts \
+  qt/locale/binarybit_zh_CN.ts \
+  qt/locale/binarybit_zh_TW.ts
