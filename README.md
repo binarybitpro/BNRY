@@ -6,28 +6,20 @@ BinaryBit is not only enhances security and privacy in financial transactions bu
 # BinaryBit Specifications
 
 Ticker:  BNRY<br>
-Algorithm:  X11
-
-Type:  MasterNode & PoW
-
-Block Time:  2 Minutes
-
-Reward:  13.50 BNRY
-
-Node Collateral:  3 000 BNRY
-
-MasterNode:  80%
-
-Proof of Work (PoW):  20%
-
-Premine:  0.5% BNRY (600 000)
-
-Total Supply:  120 000 000 BNRY
+Algorithm:  X11<br>
+Type:  MasterNode & PoW<br>
+Block Time:  2 Minutes<br>
+Reward:  13.50 BNRY<br>
+Node Collateral:  3 000 BNRY<br>
+MasterNode:  80%<br>
+Proof of Work (PoW):  20%<br>
+Premine:  0.5% BNRY (600 000)<br>
+Total Supply:  120 000 000 BNRY<br>
  
-Website:
-https://binarybit.pro/
-Explorer:
-https://explorer.binarybit.pro/
-Twitter:
-https://x.com/BinaryBit_pro
-https://discord.gg/qgmdEEEJnq
+Website:<br>
+https://binarybit.pro/<br>
+Explorer:<br>
+https://explorer.binarybit.pro/<br>
+Twitter:<br>
+https://x.com/BinaryBit_pro<br>
+https://discord.gg/qgmdEEEJnq<br>
