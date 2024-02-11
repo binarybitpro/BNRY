@@ -6,7 +6,6 @@ BinaryBit is not only enhances security and privacy in financial transactions bu
 # BinaryBit Specifications
 
 Ticker:  BNRY
-
 Algorithm:  X11
 
 Type:  MasterNode & PoW
