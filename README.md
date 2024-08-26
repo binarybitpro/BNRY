@@ -11,8 +11,6 @@ Type:  MasterNode<br>
 Block Time:  2 Minutes<br>
 Reward:  12 BNRY<br>
 Node Collateral:  4 000 BNRY<br>
-MasterNode:  100%<br>
-Proof of Work (PoW):  20%<br>
 Premine:  0.5% BNRY (600 000)<br>
 Total Supply:  120 000 000 BNRY<br>
  
